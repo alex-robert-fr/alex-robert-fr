@@ -5,11 +5,9 @@
 [![](https://img.shields.io/badge/alexrobert.fr-informational?style=for-the-badge&logo=html5&logoColor=white&color=bc2b57)](https://alexrobert.fr)
 
 ## 🛠 Outils & Technologies
-![](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=2b62bc&color=2b62bc)
-![](https://img.shields.io/badge/Code-SASS/SCSS-informational?style=flat&logo=sass&logoColor=bc2b80&color=bc2b80)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=b3bc2b&color=b3bc2b)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=2b87bc&color=2b87bc)
+![](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
+![](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 
 ## 📈 Statistiques Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-robert-fr&show_icons=true&theme=radical)
