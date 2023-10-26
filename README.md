@@ -9,3 +9,5 @@
 ![](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Intel-%230071C5?style=flat&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
+
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-robert-fr&show_icons=true&theme=radical)
