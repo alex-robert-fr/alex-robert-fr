@@ -11,4 +11,4 @@
 ![](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-robert-fr&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-robert-fr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-robert-fr&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
