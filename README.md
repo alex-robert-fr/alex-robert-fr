@@ -5,3 +5,4 @@
 ![](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
 ![](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat&logo=c&logoColor=white)
