@@ -1,5 +1,5 @@
 # Bienvenue sur mon profil ! <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="35"/>
-<p>Je m'appel Alex Robert,j'ai 21 ans et je suis développeur Rust/C. Je suis motivé, déterminé, et passionné par mon métier !</p>
+<p>Bonjour, je suis Alex Robert, 21 ans, spécialisé en Cm C++ et asm x86. Je suis un développeur motivé et passionné, toujours prêt à relever de nouveaux défis dans le monde de la programmation.</p>
 
 ## 🛠 Outils & Technologies
 ![](https://img.shields.io/badge/Fedora-294172?style=flat&logo=c&logoColor=white)
