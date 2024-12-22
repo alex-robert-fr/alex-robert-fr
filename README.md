@@ -4,8 +4,8 @@
 <p>🌟 My goal is to collaborate on innovative and exciting projects. I love the idea of working with other enthusiasts to create something great.</p>
 
 ## 🛠 Outils & Technologies
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)
 ![](https://img.shields.io/badge/Fedora-294172?style=flat&logo=c&logoColor=white)
-![](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
 ![](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Intel-%230071C5?style=flat&logo=c&logoColor=white)
