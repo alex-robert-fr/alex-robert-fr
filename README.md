@@ -5,15 +5,8 @@
 **Software Architect & Developer — Systems programming, SaaS, automation.**
 
 Self-taught since 10. Built my way from bare-metal to production.
-
-```
-$ cat /var/log/achievements
-[OK] Solo dev on production apps — retail group, 2,700+ stores
-[OK] End-to-end delivery: requirements → architecture → deployment → production
-[OK] Full-stack SaaS shipped in async remote team
-[OK] Bare-metal OS & games in x86 assembly
-[OK] École 42
-```
+<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1500&pause=100&color=FFAA00&background=0D1117&multiline=true&repeat=false&width=520&height=110&lines=%24+cat+%2Fvar%2Flog%2Fachievements;%5BOK%5D+Solo+dev+on+production+apps+%E2%80%94+retail+group%2C+2%2C700%2B+stores;%5BOK%5D+End-to-end+delivery%3A+requirements+%E2%86%92+architecture+%E2%86%92+deployment+%E2%86%92+production;%5BOK%5D+Full-stack+SaaS+shipped+in+async+remote+team;%5BOK%5D+Bare-metal+OS+%26+games+in+x86+assembly;%5BOK%5D+42+School)](https://git.io/typing-svg)
 
 ---
 
