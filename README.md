@@ -76,6 +76,12 @@ Self-taught since 10. Built my way from bare-metal to production.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1500&pause=300&color=FFAA00&background=0D1117&multiline=true&width=520&height=110&lines=%24+cargo+build+--release+saas-platform;Compiling+core+v0.1.0+%5B+OK+%5D;Compiling+modules+v0.1.0+%5B+OK+%5D;Compiling+saas+v0.1.0+%5B+LOADING+%5D)](https://git.io/typing-svg)
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=alex-robert-fr&theme=dark)](https://git.io/streak-stats)
+
+</div>
+
 ---
 
 <div align="center">
