@@ -7,10 +7,9 @@
 Self-taught since 10. Built my way from bare-metal to production.
 <br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1500&pause=100&color=FFAA00&background=0D1117&multiline=true&repeat=false&width=520&height=110&lines=%24+cat+%2Fvar%2Flog%2Fachievements;%5BOK%5D+Solo+dev+on+production+apps+%E2%80%94+retail+group%2C+2%2C700%2B+stores;%5BOK%5D+End-to-end+delivery%3A+requirements+%E2%86%92+architecture+%E2%86%92+deployment+%E2%86%92+production;%5BOK%5D+Full-stack+SaaS+shipped+in+async+remote+team;%5BOK%5D+Bare-metal+OS+%26+games+in+x86+assembly;%5BOK%5D+42+School)](https://git.io/typing-svg)
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=300&color=00FF00&background=0D1117&repeat=false&width=435&separator=%3C&lines=;+---+loading+kernel+modules+---)](https://git.io/typing-svg)
+<br>
+<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=300&color=00FF00&background=0D1117&repeat=false&width=435&height=25&separator=%3C&lines=;+---+loading+kernel+modules+---)](https://git.io/typing-svg)
 
 <table>
 <tr>
@@ -39,28 +38,31 @@ Self-taught since 10. Built my way from bare-metal to production.
 </tr>
 </table>
 
----
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=300&color=00FF00&background=0D1117&repeat=false&width=435&separator=%3C&lines=;+---+loading+firmware+---)](https://git.io/typing-svg)
-
-<details>
-<summary><b><code>/lib/firmware</code></b> — Engineering principles</summary>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=300&color=00FF00&background=0D1117&repeat=false&width=435&height=25&separator=%3C&lines=;+---+loading+engineering+principles+---)](https://git.io/typing-svg)
+<table>
+<tr>
+<td><kbd>clean_code</kbd></td>
+<td>Clean Architecture, SOLID, DDD applied daily. No comments that explain what — only why.</td>
+</tr>
+<tr>
+<td><kbd>ai_workflow</kbd></td>
+<td>Structured workflow, deterministic quality gates, human decision authority. AI accelerates — it doesn't decide.</td>
+</tr>
+<tr>
+<td><kbd>process</kbd></td>
+<td>Replicability over speed. Reproducible workflows, documented decisions, modular systems that scale without rewriting.</td>
+</tr>
+<tr>
+<td><kbd>architecture</kbd></td>
+<td>Modular by design. Every decision documented before the first line of code. Technical debt is a choice, not an accident.</td>
+</tr>
+</table>
 
 <br>
 
-> **Clean code** — Clean Architecture, SOLID, DDD applied daily. No comments that explain *what* — only *why*.
-
-> **AI-assisted development** — Structured workflow, deterministic quality gates, human decision authority. AI accelerates — it doesn't decide.
-
-> **Process** — Replicability over speed. Reproducible workflows, documented decisions, modular systems that scale without rewriting.
-
-> **Architecture** — Modular by design. Every decision documented before the first line of code. Technical debt is a choice, not an accident.
-
-</details>
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=300&color=00FF00&background=0D1117&repeat=false&width=435&separator=%3C&lines=;+---+mounting+filesystems+---)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=300&color=00FF00&background=0D1117&repeat=false&width=435&height=25&separator=%3C&lines=;+---+mounting+filesystems+---)](https://git.io/typing-svg)
 
 | | Project | Description |
 |---|---|---|
@@ -68,11 +70,12 @@ Self-taught since 10. Built my way from bare-metal to production.
 | `>>` | **[snake-os](https://github.com/alex-robert-fr/snake-os)** | Snake game running on raw x86 hardware, no OS layer. |
 | `>>` | **[Pacman-so_long](https://github.com/alex-robert-fr/Pacman-so_long)** | Pacman in C with 42's minilibx. |
 
----
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=300&color=00FF00&background=0D1117&repeat=false&width=435&height=25&separator=%3C&lines=;+---+init+%2Fcurrent-project+---)](https://git.io/typing-svg)
-<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1500&pause=300&color=FFAA00&background=0D1117&multiline=true&width=520&height=110&lines=%24+cargo+build+--release+saas-platform;Compiling+core+v0.1.0+%5B+OK+%5D;Compiling+modules+v0.1.0+%5B+OK+%5D;Compiling+saas+v0.1.0+%5B+LOADING+%5D)](https://git.io/typing-svg)
+
 ---
 
 <div align="center">
@@ -80,5 +83,3 @@ Self-taught since 10. Built my way from bare-metal to production.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=300&color=00FF00&background=0D1117&center=true&multiline=true&repeat=false&width=520&height=60&lines=0x7c00+kernel%3A+System+ready.)](https://git.io/typing-svg)
 
 </div>
-
-<!-- If you're reading the source: respect. You're my kind of people. -->
