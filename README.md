@@ -17,7 +17,7 @@ $ cat /var/log/achievements
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=300&color=00FF00&background=0D1117&repeat=false&width=435&separator=%3C&lines=;+---+loading+kernel+modules+---)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=300&color=00FF00&background=0D1117&repeat=false&width=435&separator=%3C&lines=;+---+loading+kernel+modules+---)](https://git.io/typing-svg)
 
 <table>
 <tr>
@@ -48,7 +48,7 @@ $ cat /var/log/achievements
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=300&color=00FF00&background=0D1117&repeat=false&width=435&separator=%3C&lines=;+---+loading+firmware+---)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=300&color=00FF00&background=0D1117&repeat=false&width=435&separator=%3C&lines=;+---+loading+firmware+---)](https://git.io/typing-svg)
 
 <details>
 <summary><b><code>/lib/firmware</code></b> — Engineering principles</summary>
@@ -67,7 +67,7 @@ $ cat /var/log/achievements
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=300&color=00FF00&background=0D1117&repeat=false&width=435&separator=%3C&lines=;+---+mounting+filesystems+---)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=300&color=00FF00&background=0D1117&repeat=false&width=435&separator=%3C&lines=;+---+mounting+filesystems+---)](https://git.io/typing-svg)
 
 | | Project | Description |
 |---|---|---|
@@ -77,14 +77,14 @@ $ cat /var/log/achievements
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=300&color=00FF00&background=0D1117&repeat=false&width=435&height=25&separator=%3C&lines=;+---+init+%2Fcurrent-project+---)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=300&color=00FF00&background=0D1117&repeat=false&width=435&height=25&separator=%3C&lines=;+---+init+%2Fcurrent-project+---)](https://git.io/typing-svg)
 <br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1500&pause=300&color=FFAA00&background=0D1117&multiline=true&width=520&height=110&lines=%24+cargo+build+--release+saas-platform;Compiling+core+v0.1.0+%5B+OK+%5D;Compiling+modules+v0.1.0+%5B+OK+%5D;Compiling+saas+v0.1.0+%5B+LOADING+%5D)](https://git.io/typing-svg)
 ---
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1500&pause=300&color=00FF00&background=0D1117&center=true&multiline=true&repeat=false&width=520&height=60&lines=0x7c00+kernel%3A+System+ready.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=300&color=00FF00&background=0D1117&center=true&multiline=true&repeat=false&width=520&height=60&lines=0x7c00+kernel%3A+System+ready.)](https://git.io/typing-svg)
 
 </div>
 
