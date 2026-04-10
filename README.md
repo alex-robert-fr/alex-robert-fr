@@ -1,108 +1,91 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00FF00&background=0D111700&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=110&lines=BIOS+(C)+2001-2026%2C+0x7c00+Systems;POST+complete.+Checking+memory...+640K+ought+to+be+enough.;Loading+MBR+at+0x7C00...;System+ready.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=300&color=00FF00&background=0D111700&multiline=true&repeat=false&width=620&height=90&lines=0x7c00+BIOS+v1.0%2C+Copyright+(C)+2002-2026;Main+Processor+%3A+24yr+runtime%2C+14yr+code+exec;Memory+Test+%3A++++640K+OK;Loading+MBR+from+%2Fdev%2Fsda+at+0x7C00...+OK)](https://git.io/typing-svg)
+<br />
 # 0x7c00
 
-**I write code that runs where there's nothing left beneath it.**
+**Software Architect & Developer — Systems programming, SaaS, automation.**
 
-Self-taught since 10 · Freelancing since 18 · Solo dev shipping systems for **2,700+ stores** · **École 42**
+Self-taught since 10. Built my way from bare-metal to production.
 
-</div>
+```
+$ cat /var/log/achievements
+[OK] Solo dev on production apps — retail group, 2,700+ stores
+[OK] End-to-end delivery: requirements → architecture → deployment → production
+[OK] Full-stack SaaS shipped in async remote team
+[OK] Bare-metal OS & games in x86 assembly
+[OK] École 42
+```
 
 ---
 
-```nasm
-; --- loading modules ---
-mov  si, modules
-call load_all
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=300&color=00FF00&background=0D1117&repeat=false&width=435&separator=%3C&lines=;+---+loading+kernel+modules+---)](https://git.io/typing-svg)
 
 <table>
 <tr>
 <td><kbd>core/c</kbd></td>
-<td>My native tongue. Where every byte is earned and every segfault is a lesson.</td>
+<td>Primary language. Systems programming, memory management, bare-metal.</td>
 </tr>
 <tr>
 <td><kbd>core/x86-asm</kbd></td>
-<td>I don't just write assembly — I boot from it.</td>
+<td>Bootloaders, OS development, hardware-level programming.</td>
 </tr>
 <tr>
 <td><kbd>core/rust</kbd></td>
-<td>Same control, stricter compiler.</td>
+<td>Systems programming with stronger safety guarantees.</td>
 </tr>
 <tr>
 <td><kbd>core/typescript</kbd></td>
-<td>NestJS, Nuxt, DDD. Low-level mindset meets production SaaS.</td>
+<td>High-design SaaS tooling with DDD architecture.</td>
 </tr>
 <tr>
 <td><kbd>drivers/neovim</kbd></td>
-<td>My cockpit. If it can't be done in a terminal, it doesn't need to be done.</td>
+<td>Full terminal-based workflow.</td>
+</tr>
+<tr>
+<td><kbd>drivers/claude</kbd></td>
+<td>AI-assisted development — structured workflow, deterministic quality gates, human decision authority.</td>
 </tr>
 </table>
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=300&color=00FF00&background=0D1117&repeat=false&width=435&separator=%3C&lines=;+---+loading+firmware+---)](https://git.io/typing-svg)
+
 <details>
-<summary><b><code>cat /lib/firmware</code></b> — Engineering principles</summary>
+<summary><b><code>/lib/firmware</code></b> — Engineering principles</summary>
 
 <br>
 
-> **On clean code** — Clean Architecture, SOLID, and DDD as daily constraints — not résumé keywords. If the code needs a comment to explain *what* it does, the code is wrong.
+> **Clean code** — Clean Architecture, SOLID, DDD applied daily. No comments that explain *what* — only *why*.
 
-> **On AI** — AI proposes. Hooks and tests decide. The human architects. That hierarchy doesn't bend.
+> **AI-assisted development** — Structured workflow, deterministic quality gates, human decision authority. AI accelerates — it doesn't decide.
 
-> **On process** — Replicability over speed. Always. I'd rather build a process I can run 50 times than ship fast once and improvise forever.
+> **Process** — Replicability over speed. Reproducible workflows, documented decisions, modular systems that scale without rewriting.
 
-> **On scaling solo** — I don't scale through headcount. I scale through architecture and automation.
+> **Architecture** — Modular by design. Every decision documented before the first line of code. Technical debt is a choice, not an accident.
 
 </details>
 
 ---
 
-```nasm
-; --- mounting /dev ---
-```
-
-### `/dev/projects`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=300&color=00FF00&background=0D1117&repeat=false&width=435&separator=%3C&lines=;+---+mounting+filesystems+---)](https://git.io/typing-svg)
 
 | | Project | Description |
 |---|---|---|
-| `>>` | **[expensive_os](https://github.com/alex-robert-fr/expensive_os)** | Bare-metal OS in assembly. No stdlib, no safety net. |
-| `>>` | **[snake-os](https://github.com/alex-robert-fr/snake-os)** | Snake on raw x86 hardware. No OS underneath. |
-| `>>` | **[EmpireEarth](https://github.com/alex-robert-fr/EmpireEarth)** | Empire Earth rebuilt from scratch in C. |
+| `>>` | **[expensive_os](https://github.com/alex-robert-fr/expensive_os)** | Exploring OS development from scratch in x86 assembly. |
+| `>>` | **[snake-os](https://github.com/alex-robert-fr/snake-os)** | Snake game running on raw x86 hardware, no OS layer. |
 | `>>` | **[Pacman-so_long](https://github.com/alex-robert-fr/Pacman-so_long)** | Pacman in C with 42's minilibx. |
 
 ---
 
-```nasm
-; --- init /proc ---
-```
-
-### `/proc/current`
-
-Building a **SaaS factory** — modular systems assembled from shared packages, deployed per client, maintained from a single monorepo. Every architectural decision documented before a single line is written.
-
-Still writing C and assembly when the sun goes down.
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=300&color=00FF00&background=0D1117&repeat=false&width=435&height=25&separator=%3C&lines=;+---+init+%2Fcurrent-project+---)](https://git.io/typing-svg)
+<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1500&pause=300&color=FFAA00&background=0D1117&multiline=true&width=520&height=110&lines=%24+cargo+build+--release+saas-platform;Compiling+core+v0.1.0+%5B+OK+%5D;Compiling+modules+v0.1.0+%5B+OK+%5D;Compiling+saas+v0.1.0+%5B+LOADING+%5D)](https://git.io/typing-svg)
 ---
 
 <div align="center">
 
-```
-0x7c00 kernel: System ready. Uptime 23y. 14y writing code.
-_
-```
-
-<br>
-
-<a href="https://github.com/alex-robert-fr">
-<img src="https://img.shields.io/badge/GitHub-0x7c00-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="mailto:contact.alexrobert04@gmail.com">
-<img src="https://img.shields.io/badge/Email-contact-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1500&pause=300&color=00FF00&background=0D1117&center=true&multiline=true&repeat=false&width=520&height=60&lines=0x7c00+kernel%3A+System+ready.)](https://git.io/typing-svg)
 
 </div>
 
-<!-- If you're reading the source: respect. You're my kind of people. 0x7c00 is where it all begins. -->
+<!-- If you're reading the source: respect. You're my kind of people. -->
